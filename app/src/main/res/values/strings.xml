@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">atividade_LojaPaulistao</string>
+    <string name="title_activity_loja">loja</string>
+    <string name="title_activity_loja__time">Loja_Time</string>
+    <string name="time">TIME</string>
+</resources>
